@@ -53,7 +53,7 @@ public class TaskEntity {
 	}
 	public TaskEntity() {
 		super();
-		// TODO Auto-generated constructor stub
+
 	}
 
 }
